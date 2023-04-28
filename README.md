@@ -1,6 +1,6 @@
 # Kodluyoruz Ilk Repo
 
-Bu repo [Kodluyoruz](kodluyoruz.org) Eğitimi kapsamında açtığım ilk repo.İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](kodluyoruz.org) Eğitimi kapsamında açtığım ilk repo.İçerisinde bir adet README dosyası, bir adet de index.html ve img dosyası barındırıyor.
 
 ![Proje Örnek Resmi](/img/imageödev.png)
 
@@ -33,4 +33,4 @@ Pull requestler kabul edilir.Büyük değişiklikler için, lütfen önce neyi d
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+
